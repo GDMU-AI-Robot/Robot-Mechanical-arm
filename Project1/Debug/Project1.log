@@ -1,3 +1,0 @@
-﻿  TEXT.cpp
-D:\桌面\Project1\TEXT.cpp(14,10): warning C4477: “printf”: 格式字符串“%f”需要类型“double”的参数，但可变参数 2 拥有了类型“int”
-  Project1.vcxproj -> D:\桌面\Project1\Debug\Project1.exe
