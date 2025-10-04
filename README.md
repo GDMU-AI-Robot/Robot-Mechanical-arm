@@ -20,6 +20,12 @@
 | 机械臂系统   | 5自由度舵机机械臂       | 含基座（A）、大臂（B）、小臂（C）、腕部（D）、夹爪（E），支持抓取小型物体 |
 | 电源         | 4节3.7V 18650锂电池     | 2节供电Black Board，2节供电ESP32                        |
 
+<p align="center">
+  <div style="display:inline-block; margin-left:-50px;">
+    <img src="https://github.com/user-attachments/assets/5ae323cb-394e-4b47-9ef5-23c00fc20ea0" height="300" hspace="10">
+    <img src="https://github.com/user-attachments/assets/539a08c3-4374-4163-abd8-02fe4fd55536" height="300">
+  </div>
+</p>
 
 ### 接线说明  
 #### 基础连接（小车+通信）  
